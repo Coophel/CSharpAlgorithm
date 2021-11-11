@@ -1,0 +1,13 @@
+D:\C#\Test3\bin\Debug\netcoreapp3.1\Test3.exe
+D:\C#\Test3\bin\Debug\netcoreapp3.1\Test3.deps.json
+D:\C#\Test3\bin\Debug\netcoreapp3.1\Test3.runtimeconfig.json
+D:\C#\Test3\bin\Debug\netcoreapp3.1\Test3.runtimeconfig.dev.json
+D:\C#\Test3\bin\Debug\netcoreapp3.1\Test3.dll
+D:\C#\Test3\bin\Debug\netcoreapp3.1\Test3.pdb
+D:\C#\Test3\obj\Debug\netcoreapp3.1\Test3.csprojAssemblyReference.cache
+D:\C#\Test3\obj\Debug\netcoreapp3.1\Test3.AssemblyInfoInputs.cache
+D:\C#\Test3\obj\Debug\netcoreapp3.1\Test3.AssemblyInfo.cs
+D:\C#\Test3\obj\Debug\netcoreapp3.1\Test3.csproj.CoreCompileInputs.cache
+D:\C#\Test3\obj\Debug\netcoreapp3.1\Test3.dll
+D:\C#\Test3\obj\Debug\netcoreapp3.1\Test3.pdb
+D:\C#\Test3\obj\Debug\netcoreapp3.1\Test3.genruntimeconfig.cache
