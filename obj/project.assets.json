@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Test3\\Test3.csproj",
+      "projectUniqueName": "D:\\C#\\Test3\\CSharpAlgorithm\\Test3.csproj",
       "projectName": "Test3",
-      "projectPath": "D:\\C#\\Test3\\Test3.csproj",
+      "projectPath": "D:\\C#\\Test3\\CSharpAlgorithm\\Test3.csproj",
       "packagesPath": "C:\\Users\\lastp\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Test3\\obj\\",
+      "outputPath": "D:\\C#\\Test3\\CSharpAlgorithm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lastp\\AppData\\Roaming\\NuGet\\NuGet.Config"
