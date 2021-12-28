@@ -8,7 +8,7 @@ namespace Test3
     {
         static void Main(string[] args)
         {
-			B2693 my = new B2693();
+			B1105 my = new B1105();
 			my.solution();
         }
     }
